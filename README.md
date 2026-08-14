@@ -30,7 +30,7 @@ Grokと一緒に作った、シンプルで可愛い天気アプリです。
 
 最新版のEXEはこちらからダウンロードできます。
 
-→ [Releases](https://github.com/aqua-grok/aqua-grok-weather/releases)（準備中）
+→ [Releases](https://github.com/aqua-grok/aqua-grok-weather/releases/tag/v1.0.0)
 
 ## ソースコード・詳細解説
 
