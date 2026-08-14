@@ -7,7 +7,7 @@ Grokと一緒に作った、シンプルで可愛い天気アプリです。
 
 ## スクリーンショット
 
-<![スクリーンショット](images/screenshot.png)
+![スクリーンショット](https://github.com/aqua-grok/aqua-grok-weather/blob/main/screenshot.png)
 
 ## 主な機能
 
